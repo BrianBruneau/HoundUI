@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/HoundUI/static/css/main.27d5ecdb.chunk.css",
+    "main.js": "/HoundUI/static/js/main.5541fa9a.chunk.js",
+    "main.js.map": "/HoundUI/static/js/main.5541fa9a.chunk.js.map",
+    "runtime-main.js": "/HoundUI/static/js/runtime-main.7ed05534.js",
+    "runtime-main.js.map": "/HoundUI/static/js/runtime-main.7ed05534.js.map",
+    "static/js/2.709089e1.chunk.js": "/HoundUI/static/js/2.709089e1.chunk.js",
+    "static/js/2.709089e1.chunk.js.map": "/HoundUI/static/js/2.709089e1.chunk.js.map",
+    "static/js/3.398196c2.chunk.js": "/HoundUI/static/js/3.398196c2.chunk.js",
+    "static/js/3.398196c2.chunk.js.map": "/HoundUI/static/js/3.398196c2.chunk.js.map",
+    "static/js/4.6087f47d.chunk.js": "/HoundUI/static/js/4.6087f47d.chunk.js",
+    "static/js/4.6087f47d.chunk.js.map": "/HoundUI/static/js/4.6087f47d.chunk.js.map",
+    "static/js/5.5c2a8021.chunk.js": "/HoundUI/static/js/5.5c2a8021.chunk.js",
+    "static/js/5.5c2a8021.chunk.js.map": "/HoundUI/static/js/5.5c2a8021.chunk.js.map",
+    "index.html": "/HoundUI/index.html",
+    "static/css/main.27d5ecdb.chunk.css.map": "/HoundUI/static/css/main.27d5ecdb.chunk.css.map",
+    "static/js/2.709089e1.chunk.js.LICENSE.txt": "/HoundUI/static/js/2.709089e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ed05534.js",
+    "static/js/2.709089e1.chunk.js",
+    "static/css/main.27d5ecdb.chunk.css",
+    "static/js/main.5541fa9a.chunk.js"
+  ]
+}
